@@ -1,0 +1,11 @@
+C:\Users\alexs\source\repos\CyrsovaRobota\bin\Debug\CyrsovaRobota.exe.config
+C:\Users\alexs\source\repos\CyrsovaRobota\bin\Debug\CyrsovaRobota.exe
+C:\Users\alexs\source\repos\CyrsovaRobota\bin\Debug\CyrsovaRobota.pdb
+C:\Users\alexs\source\repos\CyrsovaRobota\obj\Debug\CyrsovaRobota.csproj.AssemblyReference.cache
+C:\Users\alexs\source\repos\CyrsovaRobota\obj\Debug\CyrsovaRobota.Calculator.resources
+C:\Users\alexs\source\repos\CyrsovaRobota\obj\Debug\CyrsovaRobota.Properties.Resources.resources
+C:\Users\alexs\source\repos\CyrsovaRobota\obj\Debug\CyrsovaRobota.csproj.GenerateResource.cache
+C:\Users\alexs\source\repos\CyrsovaRobota\obj\Debug\CyrsovaRobota.csproj.CoreCompileInputs.cache
+C:\Users\alexs\source\repos\CyrsovaRobota\obj\Debug\CyrsovaRobota.exe
+C:\Users\alexs\source\repos\CyrsovaRobota\obj\Debug\CyrsovaRobota.pdb
+C:\Users\alexs\source\repos\CyrsovaRobota\obj\Debug\CyrsovaRobota.OtherOptions.resources
